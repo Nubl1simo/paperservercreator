@@ -25,4 +25,4 @@ echo "online-mode=$ONLINEMODE" >> server.properties
 echo "difficulty=$DIFF" >> server.properties
 echo "level-seed=$SEED" >> server.properties
 echo "gamemode=$GAMEMODE" >> server.properties
-# sh start.sh
+# ./start.sh
